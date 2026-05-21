@@ -1,5 +1,5 @@
 # Spartan Fight Club Website
-
+https://marouane3878.github.io/BCIT-Final-project/
 A responsive martial arts gym website built with **HTML, CSS, and JavaScript**. The project presents a fictional fight club called **Spartan Fight Club**, featuring programs for striking, Brazilian Jiu-Jitsu, and wrestling.
 
 The website includes a homepage, navigation menu, program highlights, testimonials, call-to-action sections, and contact information. It is designed to give visitors a clear overview of the gym and encourage them to book a free trial class.
